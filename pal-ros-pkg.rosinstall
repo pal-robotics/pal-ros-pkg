@@ -1,0 +1,29 @@
+- git:
+    uri: https://github.com/pal-robotics/reem_arm_navigation.git
+    local-name: reem_arm_navigation
+    version: master
+
+- git:
+    uri: https://github.com/pal-robotics/reem_common.git
+    local-name: reem_common
+    version: master
+
+- git:
+    uri: https://github.com/pal-robotics/reem_controllers.git
+    local-name: reem_controllers
+    version: master
+
+- git:
+    uri: https://github.com/pal-robotics/reem_robot.git
+    local-name: reem_robot
+    version: master
+
+- git:
+    uri: https://github.com/pal-robotics/reem_simulation.git
+    local-name: reem_simulation
+    version: master
+
+- git:
+    uri: https://github.com/pal-robotics/reem_teleop.git
+    local-name: reem_teleop
+    version: master
