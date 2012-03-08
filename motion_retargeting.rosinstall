@@ -36,4 +36,4 @@
 - git:
     uri: http://git.mech.kuleuven.be/robotics/orocos_kinematics_dynamics.git
     local-name: orocos_kinematics_dynamics
-    version: master
+    version: adbcf1159a76d3dabc2ff5180e1d239594085e7a
