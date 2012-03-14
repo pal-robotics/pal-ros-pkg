@@ -14,6 +14,11 @@
     version: electric
 
 - git:
+    uri: https://github.com/pal-robotics/reem_kinematics.git
+    local-name: reem_kinematics
+    version: electric
+
+- git:
     uri: https://github.com/pal-robotics/reem_plugins.git
     local-name: reem_plugins
     version: electric
