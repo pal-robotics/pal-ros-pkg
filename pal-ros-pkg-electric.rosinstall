@@ -19,6 +19,11 @@
     version: electric
 
 - git:
+    uri: https://github.com/pal-robotics/reem_msgs.git
+    local-name: reem_msgs
+    version: electric
+
+- git:
     uri: https://github.com/pal-robotics/reem_plugins.git
     local-name: reem_plugins
     version: electric
