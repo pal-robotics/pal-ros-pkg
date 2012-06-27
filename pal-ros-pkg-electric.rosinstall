@@ -1,4 +1,9 @@
 - git:
+    uri: https://github.com/pal-robotics/pal_vision.git
+    local-name: pal_vision
+    version: electric
+
+- git:
     uri: https://github.com/pal-robotics/reem_arm_navigation.git
     local-name: reem_arm_navigation
     version: electric
