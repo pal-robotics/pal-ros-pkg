@@ -1,6 +1,6 @@
 - git:
-    uri: https://github.com/pal-robotics/pal_vision.git
-    local-name: pal_vision
+    uri: https://github.com/pal-robotics/perception_blort.git
+    local-name: perception_blort
     version: electric
 
 - git:
