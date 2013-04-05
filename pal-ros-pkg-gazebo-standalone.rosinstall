@@ -1,0 +1,60 @@
+- git:
+    uri: https://github.com/pal-robotics/overlay.git
+    local-name: overlay
+    version: master
+
+- git:
+    uri: https://github.com/pal-robotics/pal_gazebo_plugins.git
+    local-name: pal_gazebo_plugins
+    version: master
+
+- git:
+    uri: https://github.com/pal-robotics/pal_image_processing.git
+    local-name: pal_image_processing
+    version: fuerte
+
+- git:
+    uri: https://github.com/pal-robotics/perception_blort.git
+    local-name: perception_blort
+    version: fuerte
+
+- git:
+    uri: https://github.com/pal-robotics/reem_arm_navigation.git
+    local-name: reem_arm_navigation
+    version: master
+
+- git:
+    uri: https://github.com/pal-robotics/reem_common.git
+    local-name: reem_common
+    version: master
+
+- git:
+    uri: https://github.com/pal-robotics/reem_controllers.git
+    local-name: reem_controllers
+    version: master
+
+- git:
+    uri: https://github.com/pal-robotics/reem_kinematics.git
+    local-name: reem_kinematics
+    version: master
+
+- git:
+    uri: https://github.com/pal-robotics/reem_msgs.git
+    local-name: reem_msgs
+    version: fuerte
+
+- git:
+    uri: https://github.com/pal-robotics/reem_robot.git
+    local-name: reem_robot
+    version: master
+
+- git:
+    uri: https://github.com/pal-robotics/reem_simulation.git
+    local-name: reem_simulation
+    version: master
+
+- setup-file:
+    local-name: /opt/ros/fuerte/setup.sh
+
+- other:
+    local-name: /usr/share/osrf-common-1.0/ros
