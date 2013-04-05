@@ -47,3 +47,6 @@
     uri: https://github.com/pal-robotics/reem_simulation.git
     local-name: reem_simulation
     version: electric
+
+- setup-file:
+    local-name: /opt/ros/electric/setup.sh

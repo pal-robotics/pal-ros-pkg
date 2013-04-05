@@ -53,3 +53,6 @@
     local-name: reem_simulation
     version: fuerte
 
+- setup-file:
+    local-name: /opt/ros/fuerte/setup.sh
+
