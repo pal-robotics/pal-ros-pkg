@@ -1,0 +1,68 @@
+# PAL-specific
+- git:
+    uri: https://github.com/pal-robotics/overlay.git
+    local-name: overlay
+    version: master
+
+# REEM-specific
+- git:
+    uri: https://github.com/pal-robotics/pal_gazebo_plugins.git
+    local-name: pal_gazebo_plugins
+    version: master
+
+- git:
+    uri: https://github.com/pal-robotics/reem_common.git
+    local-name: reem_common
+    version: ros_control
+
+- git:
+    uri: https://github.com/pal-robotics/reem_controllers.git
+    local-name: reem_controllers
+    version: ros_control
+
+- git:
+    uri: https://github.com/pal-robotics/reem_msgs.git
+    local-name: reem_msgs
+    version: fuerte
+
+- git:
+    uri: https://github.com/pal-robotics/reem_simulation.git
+    local-name: reem_simulation
+    version: ros_control
+
+# ros-controls
+- git:
+    uri: https://github.com/pal-robotics/control_msgs.git
+    local-name: control_msgs
+    version: fuerte_backport
+
+- git:
+    uri: https://github.com/pal-robotics/control_toolbox.git
+    local-name: control_toolbox
+    version: fuerte_backport
+
+- git:
+    uri: https://github.com/ros-controls/realtime_tools.git
+    local-name: realtime_tools
+    version: hydro-devel
+
+- git:
+    uri: https://github.com/pal-robotics/ros_control.git
+    local-name: ros_control
+    version: fuerte_backport
+
+- git:
+    uri: https://github.com/pal-robotics/ros_controllers.git
+    local-name: ros_controllers
+    version: fuerte_backport
+
+- git:
+    uri: https://github.com/pal-robotics/ros_control_gazebo.git
+    local-name: ros_control_gazebo
+    version: gazebo_standalone
+
+- setup-file:
+    local-name: /opt/ros/fuerte/setup.sh
+
+- other:
+    local-name: /usr/share/osrf-common-1.0/ros
