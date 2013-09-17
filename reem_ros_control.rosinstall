@@ -18,7 +18,7 @@
 - git:
     uri: https://github.com/pal-robotics/reem_controllers.git
     local-name: reem_controllers
-    version: ros_control
+    version: ros_control_rt
 
 - git:
     uri: https://github.com/pal-robotics/reem_msgs.git
