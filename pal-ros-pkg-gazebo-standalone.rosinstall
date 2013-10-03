@@ -31,7 +31,7 @@
 - git:
     uri: https://github.com/pal-robotics/reem_controllers.git
     local-name: reem_controllers
-    version: master
+    version: fuerte
 
 - git:
     uri: https://github.com/pal-robotics/reem_kinematics.git
