@@ -9,4 +9,4 @@
 
 # REEM-C packages
 - git: {local-name: reemc_robot, uri: 'https://github.com/pal-robotics/reemc_robot', version: 'reemc-sim-0.1'}
-- git: {local-name: reemc_simulation, uri: 'https://github.com/pal-robotics/reemc_simulation', version: 'reemc-sim-0.1'}
+- git: {local-name: reemc_simulation, uri: 'https://github.com/pal-robotics/reemc_simulation', version: 'reemc-sim-0.2'}
