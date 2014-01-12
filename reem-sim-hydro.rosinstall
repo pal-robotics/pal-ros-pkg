@@ -1,0 +1,13 @@
+# to be merged upstream
+- git: {local-name: ros_controllers, uri: 'https://github.com/pal-robotics/ros_controllers', version: 'reem-sim-0.1'}
+- git: {local-name: ros_control, uri: 'https://github.com/pal-robotics/ros_control', version: 'reem-sim-0.1'}
+- git: {local-name: gazebo_ros_pkgs, uri: 'https://github.com/pal-robotics/gazebo_ros_pkgs', version: 'reem-sim-0.1'}
+
+# original work
+- git: {local-name: play_motion, uri: 'https://github.com/pal-robotics/play_motion', version: 'reem-sim-0.1'}
+- git: {local-name: joy_teleop, uri: 'https://github.com/pal-robotics/joy_teleop', version: 'reem-sim-0.1'}
+
+# REEM packages
+- git: {local-name: reem_robot, uri: 'https://github.com/pal-robotics/reem_robot', version: 'reem-sim-0.1'}
+- git: {local-name: reem_simulation, uri: 'https://github.com/pal-robotics/reem_simulation', version: 'reem-sim-0.1'}
+- git: {local-name: reem_moveit_config, uri: 'https://github.com/pal-robotics/reem_moveit_config', version: 'reem-sim-0.1'}
