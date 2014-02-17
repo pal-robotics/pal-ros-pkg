@@ -49,7 +49,7 @@ We maintain different setups, pick your choice:
   ```
 
 
-* REEM-C simluation
+* REEM-C simulation
 
   ```
   https://raw2.github.com/pal-robotics/pal-ros-pkg/master/reemc-sim-hydro.rosinstall
