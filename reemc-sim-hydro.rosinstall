@@ -8,6 +8,7 @@
 - git: {local-name: joy_teleop, uri: 'https://github.com/pal-robotics/joy_teleop', version: 'reemc-sim-0.1'}
 
 # REEM-C packages
-- git: {local-name: reemc_robot, uri: 'https://github.com/pal-robotics/reemc_robot', version: 'reemc-sim-0.1'}
+- git: {local-name: reemc_robot, uri: 'https://github.com/pal-robotics/reemc_robot', version: 'reemc-sim-0.2'}
 - git: {local-name: reemc_simulation, uri: 'https://github.com/pal-robotics/reemc_simulation', version: 'reemc-sim-0.2'}
 - git: {local-name: reemc_moveit_config, uri: 'https://github.com/pal-robotics/reemc_moveit_config', version: 'reemc-sim-0.2'}
+- git: {local-name: pal_gazebo_plugins, uri: 'https://github.com/pal-robotics/pal_gazebo_plugins', version: reem-sim-0.1}
