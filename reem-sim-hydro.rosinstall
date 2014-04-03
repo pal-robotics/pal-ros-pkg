@@ -11,5 +11,5 @@
 # REEM packages
 - git: {local-name: reem_robot, uri: 'https://github.com/pal-robotics/reem_robot', version: 'reem-sim-0.5'}
 - git: {local-name: reem_simulation, uri: 'https://github.com/pal-robotics/reem_simulation', version: 'reem-sim-0.5'}
-- git: {local-name: reem_moveit_config, uri: 'https://github.com/pal-robotics/reem_moveit_config', version: 'reem-sim-0.4'}
+- git: {local-name: reem_moveit_config, uri: 'https://github.com/pal-robotics/reem_moveit_config', version: 'reem-sim-0.5'}
 - git: {local-name: reem_navigation, uri: 'https://github.com/pal-robotics/reem_navigation', version: 'reem-sim-0.1'}
