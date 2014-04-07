@@ -1,7 +1,7 @@
 # to be merged upstream
 - git: {local-name: ros_controllers, uri: 'https://github.com/pal-robotics/ros_controllers', version: 'reem-sim-0.1'}
 - git: {local-name: ros_control, uri: 'https://github.com/pal-robotics/ros_control', version: 'reem-sim-0.1'}
-- git: {local-name: gazebo_ros_pkgs, uri: 'https://github.com/pal-robotics/gazebo_ros_pkgs', version: 'reem-sim-0.1'}
+- git: {local-name: gazebo_ros_pkgs, uri: 'https://github.com/pal-robotics/gazebo_ros_pkgs', version: 'reem-sim-0.2'}
 
 # original work
 - git: {local-name: play_motion, uri: 'https://github.com/pal-robotics/play_motion', version: 'reem-sim-0.1'}
