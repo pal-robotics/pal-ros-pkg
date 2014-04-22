@@ -21,3 +21,21 @@
 - git: {local-name: task_joint_weights, uri: 'https://github.com/pal-robotics/task_joint_weights.git'}
 - git: {local-name: task_joint_limit_clamping, uri: 'https://github.com/pal-robotics/task_joint_limit_clamping.git'}
 - git: {local-name: dyn-oppoint-modifier, uri: 'https://github.com/pal-robotics/dyn-oppoint-modifier.git'}
+
+- git: {local-name: ros_controllers, uri: 'https://github.com/pal-robotics/ros_controllers',
+    version: reem-sim-0.1}
+- git: {local-name: ros_control, uri: 'https://github.com/pal-robotics/ros_control',
+    version: reem-sim-0.1}
+- git: {local-name: gazebo_ros_pkgs, uri: 'https://github.com/pal-robotics/gazebo_ros_pkgs',
+    version: reem-sim-0.1}
+- git: {local-name: joy_teleop, uri: 'https://github.com/pal-robotics/joy_teleop',
+    version: reem-sim-0.1}
+- git: {local-name: pal_gazebo_plugins, uri: 'https://github.com/pal-robotics/pal_gazebo_plugins',
+    version: reem-sim-0.1}
+- git: {local-name: reem_robot, uri: 'https://github.com/pal-robotics/reem_robot',
+    version: reem-sim-0.4}
+- git: {local-name: reem_simulation, uri: 'https://github.com/pal-robotics/reem_simulation',
+    version: reem-sim-0.4}
+- git: {local-name: reem_navigation, uri: 'https://github.com/pal-robotics/reem_navigation',
+    version: reem-sim-0.1}
+
