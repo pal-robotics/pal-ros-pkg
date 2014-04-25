@@ -20,6 +20,7 @@
 - git: {local-name: trj_publisher, uri: 'https://github.com/pal-robotics/trj_publisher.git'}
 - git: {local-name: dyn-oppoint-modifier, uri: 'https://github.com/pal-robotics/dyn-oppoint-modifier.git'}
 - git: {local-name: sot_tasks, uri: 'https://github.com/pal-robotics/sot_tasks'}
+- git: {local-name: capsule_msgs, uri: 'https://github.com/pal-robotics/capsule_msgs'}
 
 - git: {local-name: ros_controllers, uri: 'https://github.com/pal-robotics/ros_controllers',
     version: reem-sim-0.1}
