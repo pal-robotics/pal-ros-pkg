@@ -9,6 +9,7 @@
 - git: {local-name: play_motion, uri: 'https://github.com/pal-robotics/play_motion', version: 'reem-sim-0.2'}
 - git: {local-name: joy_teleop, uri: 'https://github.com/pal-robotics/joy_teleop', version: 'reem-sim-0.1'}
 - git: {local-name: pal_gazebo_plugins, uri: 'https://github.com/pal-robotics/pal_gazebo_plugins', version: 'reem-sim-0.1'}
+- git: {local-name: pal_navigation, uri: 'https://github.com/pal-robotics/pal_navigation', version: 'reem-sim-0.1'}
 
 # REEM packages
 - git: {local-name: reem_robot, uri: 'https://github.com/pal-robotics/reem_robot', version: 'reem-sim-0.6'}
