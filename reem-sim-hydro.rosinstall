@@ -1,8 +1,8 @@
 # to be merged upstream
-- git: {local-name: ros_controllers, uri: 'https://github.com/pal-robotics/ros_controllers', version: 'reem-sim-0.1'}
-- git: {local-name: ros_control, uri: 'https://github.com/pal-robotics/ros_control', version: 'reem-sim-0.1'}
-- git: {local-name: gazebo_ros_pkgs, uri: 'https://github.com/pal-robotics/gazebo_ros_pkgs', version: 'reem-sim-0.2'}
-- git: {local-name: moveit_ros, uri: 'https://github.com/pal-robotics/moveit_ros.git', version: 'planning-interface-overlay'}
+- git: {local-name: ros_controllers, uri: 'https://github.com/pal-robotics-forks/ros_controllers', version: 'reem-sim-0.1'}
+- git: {local-name: ros_control, uri: 'https://github.com/pal-robotics-forks/ros_control', version: 'reem-sim-0.1'}
+- git: {local-name: gazebo_ros_pkgs, uri: 'https://github.com/pal-robotics-forks/gazebo_ros_pkgs', version: 'reem-sim-0.2'}
+- git: {local-name: moveit_ros, uri: 'https://github.com/pal-robotics-forks/moveit_ros.git', version: 'planning-interface-overlay'}
 
 
 # original work
@@ -20,9 +20,9 @@
 # Grasping related
 - git: {local-name: reem_tabletop_grasping, uri: 'https://github.com/pal-robotics/reem_tabletop_grasping.git', version: 'reem-sim-0.6'}
 - git: {local-name: object_recognition_clusters, uri: 'https://github.com/pal-robotics/object_recognition_clusters.git', version: 'reem-sim-0.6'}
-- git: {local-name: moveit_simple_grasps, uri: 'https://github.com/pal-robotics/moveit_simple_grasps.git', version: 'reem-sim-0.6'}
-- git: {local-name: moveit_visual_tools, uri: 'https://github.com/pal-robotics/moveit_visual_tools.git', version: 'reem-sim-0.6'}
-- git: {local-name: graph_msgs, uri: 'https://github.com/pal-robotics/graph_msgs.git', version: 'reem-sim-0.6'}
+- git: {local-name: moveit_simple_grasps, uri: 'https://github.com/pal-robotics-forks/moveit_simple_grasps.git', version: 'reem-sim-0.6'}
+- git: {local-name: moveit_visual_tools, uri: 'https://github.com/pal-robotics-forks/moveit_visual_tools.git', version: 'reem-sim-0.6'}
+- git: {local-name: graph_msgs, uri: 'https://github.com/pal-robotics-forks/graph_msgs.git', version: 'reem-sim-0.6'}
 - git: {local-name: reem_object_recognition, uri: 'https://github.com/pal-robotics/reem_object_recognition.git', version: 'reem-sim-0.6'}
 - git: {local-name: reem_rgbd_launch, uri: 'https://github.com/pal-robotics/reem_rgbd_launch.git', version: 'reem-sim-0.6'}
 - git: {local-name: object_recognition_core, uri: 'https://github.com/wg-perception/object_recognition_core', version: '0.6.2'}
