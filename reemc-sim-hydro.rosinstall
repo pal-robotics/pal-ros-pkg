@@ -1,7 +1,7 @@
 # to be merged upstream
-- git: {local-name: ros_controllers, uri: 'https://github.com/pal-robotics/ros_controllers', version: 'reemc-sim-0.1'}
-- git: {local-name: ros_control, uri: 'https://github.com/pal-robotics/ros_control', version: 'reemc-sim-0.1'}
-- git: {local-name: gazebo_ros_pkgs, uri: 'https://github.com/pal-robotics/gazebo_ros_pkgs', version: 'reemc-sim-0.1'}
+- git: {local-name: ros_controllers, uri: 'https://github.com/pal-robotics-forks/ros_controllers', version: 'reemc-sim-0.1'}
+- git: {local-name: ros_control, uri: 'https://github.com/pal-robotics-forks/ros_control', version: 'reemc-sim-0.1'}
+- git: {local-name: gazebo_ros_pkgs, uri: 'https://github.com/pal-robotics-forks/gazebo_ros_pkgs', version: 'reemc-sim-0.1'}
 
 # original work
 - git: {local-name: play_motion, uri: 'https://github.com/pal-robotics/play_motion', version: 'reemc-sim-0.4'}
