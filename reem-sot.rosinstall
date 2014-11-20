@@ -1,0 +1,42 @@
+- git: {local-name: sot_cmake, uri: 'https://github.com/pal-robotics/sot_cmake.git', version: master}
+- git: {local-name: jrl-dynamics, uri: 'https://github.com/pal-robotics/jrl-dynamics.git', version: master}
+- git: {local-name: jrl-mal, uri: 'https://github.com/pal-robotics/jrl-mal.git', version: master}
+- git: {local-name: jrl-mathtools, uri: 'https://github.com/pal-robotics/jrl-mathtools.git', version: master}
+- git: {local-name: dynamic-graph-python, uri: 'https://github.com/pal-robotics/dynamic-graph-python.git', version: master}
+- git: {local-name: dynamic-graph, uri: 'https://github.com/pal-robotics/dynamic-graph.git', version: master}
+- git: {local-name: abstract-robot-dynamics, uri: 'https://github.com/pal-robotics/abstract-robot-dynamics.git', version: master}
+- git: {local-name: dynamic-graph-tutorial, uri: 'https://github.com/pal-robotics/dynamic-graph-tutorial.git', version: master}
+- git: {local-name: sot-core, uri: 'https://github.com/pal-robotics/sot-core.git'}
+- git: {local-name: soth, uri: 'https://github.com/pal-robotics/soth.git'}
+- git: {local-name: sot-dyninv, uri: 'https://github.com/pal-robotics/sot-dyninv.git'}
+- git: {local-name: sot-dynamic, uri: 'https://github.com/pal-robotics/sot-dynamic.git'}
+- git: {local-name: sot-tools, uri: 'https://github.com/pal-robotics/sot-tools.git'}
+- git: {local-name: ros_sot_robot_model, uri: 'https://github.com/pal-robotics/ros_sot_robot_model.git'}
+- git: {local-name: dynamic_graph_bridge, uri: 'https://github.com/pal-robotics/dynamic_graph_bridge.git', version: catkin}
+- git: {local-name: dynamic_graph_fcl, uri: 'https://github.com/pal-robotics/dynamic_graph_fcl.git', version: pal_github_integration}
+- git: {local-name: jrl_dynamics_urdf, uri: 'https://github.com/pal-robotics/jrl_dynamics_urdf.git'}
+- git: {local-name: sot_controller, uri: 'https://github.com/pal-robotics/sot_controller.git'}
+- git: {local-name: romeo-sot, uri: 'https://gforge.inria.fr/git/romeo-sot/romeo-sot.git'}
+- git: {local-name: trj_publisher, uri: 'https://github.com/pal-robotics/trj_publisher.git'}
+- git: {local-name: dyn-oppoint-modifier, uri: 'https://github.com/pal-robotics/dyn-oppoint-modifier.git'}
+- git: {local-name: sot_tasks, uri: 'https://github.com/pal-robotics/sot_tasks'}
+- git: {local-name: capsule_msgs, uri: 'https://github.com/pal-robotics/capsule_msgs'}
+
+- git: {local-name: ros_controllers, uri: 'https://github.com/pal-robotics/ros_controllers',
+    version: reem-sim-0.1}
+- git: {local-name: ros_control, uri: 'https://github.com/pal-robotics/ros_control',
+    version: reem-sim-0.1}
+- git: {local-name: gazebo_ros_pkgs, uri: 'https://github.com/pal-robotics/gazebo_ros_pkgs',
+    version: reem-sim-0.1}
+- git: {local-name: joy_teleop, uri: 'https://github.com/pal-robotics/joy_teleop',
+    version: reem-sim-0.1}
+- git: {local-name: pal_gazebo_plugins, uri: 'https://github.com/pal-robotics/pal_gazebo_plugins',
+    version: reem-sim-0.1}
+- git: {local-name: reem_robot, uri: 'https://github.com/pal-robotics/reem_robot',
+    version: hydro-devel}
+- git: {local-name: reem_simulation, uri: 'https://github.com/pal-robotics/reem_simulation',
+    version: reem-sim-0.4}
+- git: {local-name: reem_navigation, uri: 'https://github.com/pal-robotics/reem_navigation',
+    version: reem-sim-0.1}
+
+
