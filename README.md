@@ -9,7 +9,7 @@ rosinstall files for our roswiki-indexed repositories, and other uses.
    ```
    mkdir -p pal_ws/src && cd $_
    wstool init
-   wstool merge https://raw2.github.com/pal-robotics/pal-ros-pkg/master/reem-sim-hydro.rosinstall
+   wstool merge https://raw.githubusercontent.com/pal-robotics/pal-ros-pkg/master/reem-sim-hydro.rosinstall
    ```
 
 2. Pull all the sources
@@ -45,12 +45,12 @@ We maintain different setups, pick your choice:
 
 * REEM simulation (now with navigation!)
   ```
-  https://raw2.github.com/pal-robotics/pal-ros-pkg/master/reem-sim-hydro.rosinstall
+  https://raw.githubusercontent.com/pal-robotics/pal-ros-pkg/master/reem-sim-hydro.rosinstall
   ```
 
 
 * REEM-C simulation
 
   ```
-  https://raw2.github.com/pal-robotics/pal-ros-pkg/master/reemc-sim-hydro.rosinstall
+  https://raw.githubusercontent.com/pal-robotics/pal-ros-pkg/master/reemc-sim-hydro.rosinstall
   ```
